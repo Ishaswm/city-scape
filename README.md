@@ -84,8 +84,10 @@ pip install tensorflow numpy pandas matplotlib opencv-python kaggle py7zr
 The project includes plots showing:
 - Training vs validation loss over epochs
 - Training vs validation accuracy over epochs
-<img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/7e0b17ff-b6cc-4758-92e4-817dcd4e0b6a" />
-<img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/0810e62c-6e25-414d-9934-d9721dc84e93" />
+<img width="547" height="413" alt="download" src="https://github.com/user-attachments/assets/bc8ab69f-4036-4e32-be9f-ff0891601c4a" />
+<img width="547" height="413" alt="download (1)" src="https://github.com/user-attachments/assets/e23a810f-009f-4255-8f26-e8b4cabc973d" />
+
+
 
 
 
